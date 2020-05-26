@@ -1,4 +1,4 @@
-![](https://github.com/ravishan16/flatfile_dbeaver/blob/master/assets/flatfile_dbeaver.pngf?raw=true)
+![](https://github.com/ravishan16/flatfile_dbeaver/blob/master/assets/flatfile_dbeaver.png?raw=true)
 
 Flat files come in different shapes and sizes. Excel is powerful to analyze and manipulate data. It can get overwhelming for complex analysis. If you want to run SQL queries on large flat files, typically, you import the data into a PostgreSQL/SQLite/MySQL or database of your preference. Another useful tool for quick analysis is using [DBeaver](https://DBeaver.io/), a popular database developer tool's CSV connection. I use the DBeaver CSV connection and scripts to make life easier. 
 
